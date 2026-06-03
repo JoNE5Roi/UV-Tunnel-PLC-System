@@ -1,6 +1,6 @@
 # 🏭 UV Sterilization Tunnel Control System Upgrade
 
-![Project Overview](Downloads/uv_tunnel_overview.png)
+![Project Overview](images/uv_tunnel_overview.png)
 
 A Cooperative Education Project developed at **CPRAM Co., Ltd.** Developed and upgraded a PLC-HMI based UV Tunnel control system for food safety applications. The project transitioned a legacy system into a modern architecture, focusing on safety interlock implementation, alarm monitoring, HMI development, electrical control panel integration, and overall system reliability improvement.
 
